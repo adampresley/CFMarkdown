@@ -32,5 +32,5 @@ Copyright 2010 David Long
 
 JavaLoader - Common Public License
 ----------------------------------
-MarkdownJ - DSB License
+MarkdownJ - BSD License
 -----------------------
